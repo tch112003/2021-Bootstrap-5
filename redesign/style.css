@@ -30,8 +30,8 @@ div.desc {
     text-align: center;
 }
 
-.row {
-    align-content: center;
+.table {
+    width: 50%;
 }
 
 #englishmastiff {
@@ -60,4 +60,8 @@ div.desc {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.col {
+    text-align: center;
 }
