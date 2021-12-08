@@ -1,3 +1,28 @@
 #header {
     text-align: right;
+    font-family: "Times New Roman";
+}
+
+div.col-sm-4 {
+    font-family: "Times New Roman";
+    text-justify: newspaper;
+}
+
+.image1 {
+    width: 400px;
+    height: 525px;
+}
+
+.image2 {
+    width: 400px;
+    height: 250px;
+}
+
+#breaker {
+    line-height: 50px;
+}
+
+#footer {
+    text-align: right;
+    font-family: "Times New Roman";
 }
