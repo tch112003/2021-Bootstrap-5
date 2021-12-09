@@ -5,7 +5,7 @@
 
 div.col-sm-4 {
     font-family: "Times New Roman";
-    text-justify: newspaper;
+    text-align: justify;
 }
 
 .image1 {
@@ -19,7 +19,7 @@ div.col-sm-4 {
 }
 
 #breaker {
-    line-height: 50px;
+
 }
 
 #footer {
